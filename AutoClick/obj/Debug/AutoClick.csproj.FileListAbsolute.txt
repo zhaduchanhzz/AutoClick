@@ -1,0 +1,14 @@
+C:\Users\zhadu\source\repos\AutoClick\AutoClick\bin\Debug\AutoClick.exe.config
+C:\Users\zhadu\source\repos\AutoClick\AutoClick\bin\Debug\AutoClick.exe
+C:\Users\zhadu\source\repos\AutoClick\AutoClick\bin\Debug\AutoClick.pdb
+C:\Users\zhadu\source\repos\AutoClick\AutoClick\bin\Debug\KAutoHelper.dll
+C:\Users\zhadu\source\repos\AutoClick\AutoClick\obj\Debug\AutoClick.csproj.SuggestedBindingRedirects.cache
+C:\Users\zhadu\source\repos\AutoClick\AutoClick\obj\Debug\AutoClick.Form1.resources
+C:\Users\zhadu\source\repos\AutoClick\AutoClick\obj\Debug\AutoClick.Form2.resources
+C:\Users\zhadu\source\repos\AutoClick\AutoClick\obj\Debug\AutoClick.Properties.Resources.resources
+C:\Users\zhadu\source\repos\AutoClick\AutoClick\obj\Debug\AutoClick.csproj.GenerateResource.cache
+C:\Users\zhadu\source\repos\AutoClick\AutoClick\obj\Debug\AutoClick.csproj.CoreCompileInputs.cache
+C:\Users\zhadu\source\repos\AutoClick\AutoClick\obj\Debug\AutoClick.csproj.CopyComplete
+C:\Users\zhadu\source\repos\AutoClick\AutoClick\obj\Debug\AutoClick.exe
+C:\Users\zhadu\source\repos\AutoClick\AutoClick\obj\Debug\AutoClick.pdb
+C:\Users\zhadu\source\repos\AutoClick\AutoClick\obj\Debug\AutoClick.csproj.AssemblyReference.cache
